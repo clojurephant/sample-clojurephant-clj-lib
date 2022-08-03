@@ -1,5 +1,5 @@
 plugins {
-  id 'dev.clojurephant.clojure' version '0.7.0-alpha.3'
+  id 'dev.clojurephant.clojure' version '0.7.0-rc.1'
   id 'maven-publish'
 }
 

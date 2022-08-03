@@ -6,4 +6,10 @@ Sample project using [clojurephant](https://github.com/clojurephant) to build a 
 
 Run the project's tests (they'll fail until you edit them):
 
-    $ ./gradlew test
+```
+$ ./gradlew test
+```
+
+## More Help
+
+See [Clojurephant's docs](https://clojurephant.dev).
